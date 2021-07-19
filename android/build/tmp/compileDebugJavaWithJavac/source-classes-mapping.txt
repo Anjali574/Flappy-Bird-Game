@@ -1,0 +1,10 @@
+com/ap/flappybird/AndroidLauncher.java
+ com.ap.flappybird.AndroidLauncher
+com/ap/flappybird/BuildConfig.java
+ com.ap.flappybird.BuildConfig
+com/ap/flappybird/R.java
+ com.ap.flappybird.R
+ com.ap.flappybird.R$color
+ com.ap.flappybird.R$drawable
+ com.ap.flappybird.R$string
+ com.ap.flappybird.R$style

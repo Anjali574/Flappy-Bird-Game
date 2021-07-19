@@ -1,0 +1,4 @@
+#Mon Jul 19 08:58:51 IST 2021
+base.0=/home/iitg/Flappy-Bird-Game/android/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

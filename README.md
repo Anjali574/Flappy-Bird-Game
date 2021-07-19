@@ -1,2 +1,2 @@
 # Flappy-Bird-Game
-Android Game using GDX
+Android Game using libGDX
